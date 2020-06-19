@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  line-height: 1.5;
+  text-transform: uppercase;
+  background-color:#79b9c6;
+  font-family:sans-serif;
+  letter-spacing: 0em;
+}
+.logo {
+  font-weight:700;
+  color:white;
+  font-size:25px;
+  margin-bottom: 10%;
+}
+.slogan{
+  text-align: center;
+  font-weight: 600;
+  font-size: 16px;
+  color: black;
+  margin: auto;
+  padding-bottom: 16px;
+}
+.banner{
+  text-align: center;
+  font-weight: 600;
+  font-size: 100px;
+  color: white;
+  margin: auto;
+  padding-bottom: 20px;
+}
+.action{
+  text-align: center;
+  color: white;
+  font-weight: 525;
+  border: 2px solid white;
+  margin: auto;
+  width: 170px;
+  padding: 5px 0px;
+}
